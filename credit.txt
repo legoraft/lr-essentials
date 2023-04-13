@@ -1,0 +1,21 @@
+-- INFO --
+
+This is my 'essential' texture pack, it adds a lot of redstone information for blocks and other useful or nice things, it's mostly a mishmash of things I found online over time, so a lot of credit is due.
+
+-- CREDITS --
+
+From VanillaTweaks (https://vanillatweaks.net/):
+- BlazeFix
+- PingColorIndicator
+- UnobtrusiveScaffolding
+- StickyPistonSides
+- BetterObservers
+- ProperBreakParticles
+- HopperBottomFix
+- DirectionalHoppers
+
+From RexxStones'Redstone Tweaks (https://www.planetminecraft.com/texture-pack/redstone-tweaks/):
+- composter and cauldron fill level indicators
+
+By LegoRaft:
+- dispenser and dropper arrows
