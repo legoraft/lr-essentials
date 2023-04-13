@@ -1,3 +1,5 @@
+<h1 align="center">LR Essentials</h1>
+
 ## Info
 This is my 'essential' texture pack, it adds a lot of redstone information for blocks and other useful or nice things, it's mostly a mishmash of things I found online over time, so a lot of credit is due.
 
