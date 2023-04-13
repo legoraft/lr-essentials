@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="pack.png" width="72px" height="72px"/>
+</p>
+
 <h1 align="center">LR Essentials</h1>
 
 ## Info
